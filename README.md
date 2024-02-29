@@ -1,4 +1,9 @@
-### Hi there 👋
+# Welcome to my profile
+
+### Checklist
+- [ ] Google's cybersecurity course
+- [ ] DIVD course
+- [ ] CISCO course
 
 * I’m currently working on google cybersecurity certificate.
 * You can ask me about my day!
