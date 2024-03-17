@@ -1,7 +1,7 @@
 # Welcome to my profile
 
 ### Checklist
-- [ ] Google's cybersecurity course
+- [ x ] Google's cybersecurity course
 - [ ] DIVD course
 - [ ] CISCO course
 
