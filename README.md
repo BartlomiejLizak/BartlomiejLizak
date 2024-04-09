@@ -5,6 +5,6 @@
 - [ ] DIVD course
 - [ ] CISCO course
 
-* I’m currently working on google cybersecurity certificate.
+* I'm currently learning about bug bounty programs and how to hack
 * You can ask me about my day!
 * You can reach me on discord: "Wiazix"
