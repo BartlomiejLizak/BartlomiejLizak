@@ -6,6 +6,6 @@
 - [x] DIVD course
 - [ ] CISCO course
 
+* DIVD volunteer
 * I'm currently learning about bug bounty programs and how to hack
-* You can ask me about my day!
-* You can reach me on discord: "Wiazix"
+* I'm participating in global NGO's project in DIVD
