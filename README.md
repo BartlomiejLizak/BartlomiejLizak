@@ -1,11 +1,12 @@
 # Welcome to my profile
-[My linkedin](https://www.linkedin.com/in/bart%C5%82omiej-lizak/)
+
+[Reach me on Linkedin](https://www.linkedin.com/in/bart%C5%82omiej-lizak/)
 
 ### Checklist
 - [x] Google's cybersecurity course
 - [x] DIVD course
+- [ ] Hackthebox
 - [ ] CISCO course
 
 * DIVD volunteer
-* I'm currently learning about bug bounty programs and how to hack
-* I'm participating in global NGO's project in DIVD
+* Part of Global NGO project at CSIRT
