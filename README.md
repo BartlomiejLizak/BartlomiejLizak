@@ -7,6 +7,8 @@
 - [x] DIVD course
 - [ ] Hackthebox
 - [ ] CISCO course
+- [ ] AGH bachelor's diploma 
 
+* AGH Computer science in Engineering student
 * DIVD volunteer
 * Part of Global NGO project at CSIRT
